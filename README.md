@@ -19,7 +19,7 @@ A script to update EPG files everyday in certain time from the Indian EPG Source
 
 
 ## Credits and Thanks
-- Thanks [botallen](https://github.com/botallen) for the recent fixes which have been merged from the original repo.
+- Thanks to [botallen](https://github.com/botallen) for the recent fixes which have been merged from the original repo.
 * GitHub for their GitHub Actions
 * [ Me ] - For Modifying Something 😅
 
